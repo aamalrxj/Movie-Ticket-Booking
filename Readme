@@ -5,3 +5,7 @@ Modules used : numpy, mysqlconnect
 - pip install mysql-connector-python
 - pip install numpy
 Seats are decided by random
+Create 3 databases :
+- movie
+- time
+- screen
