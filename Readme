@@ -1,0 +1,6 @@
+Nothing Complicated, Just a simple Project
+A simple Movie Ticket Booking System made using Python And MySQL
+This project was run using Python IDLE
+Modules used : numpy, mysqlconnect
+- pip install mysql-connector-python
+- pip install numpy
